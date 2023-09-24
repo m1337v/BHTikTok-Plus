@@ -1,7 +1,7 @@
 /* Headers */
-"Einstellungen" = "Einstellungen";
-"Entwickler" = "BHTikTok Entwickler";
-"PlusEntwickler" = "BHTikTok Plus Entwickler";
+"Settings" = "Einstellungen";
+"Developer" = "BHTikTok Entwickler";
+"PlusDeveloper" = "BHTikTok Plus Entwickler";
 
 /* Main */
 "DownloadOptions" = "Downloads";
@@ -89,4 +89,47 @@
 "FollowStatusDesc" = "Zeigt den Abonnementstatus in Benutzerprofilen an";
 "VideoCount" = "Videoanzahl";
 "VideoCountDesc" = "Zeigt die Gesamtanzahl der Uploads in Benutzerprofilen an";
-"TotalVideoCount" = "Beiträge: %@"; // %@ ist die Gesamtvideomenge (Beitr
+"TotalVideoCount" = "Beiträge: %@"; // %@ ist die Gesamtvideomenge (Beiträge)
+"TotalVideoCountDesc" = "Format für die Anzeige der Gesamtanzahl der Uploads in Benutzerprofilen";
+"UserBio" = "Biografie anzeigen";
+"UserBioDesc" = "Zeigt die Benutzerbiografie in einem separaten Bereich an";
+"CopyBio" = "Biografie kopieren";
+"CopyBioDesc" = "Fügt einen Button hinzu, um die Biografie eines Benutzers zu kopieren";
+
+/* Confirmation Options */
+"Confirmation" = "Bestätigung";
+"ConfirmExit" = "Beim Verlassen bestätigen";
+"ConfirmExitDesc" = "Fordert eine Bestätigung an, bevor die App geschlossen wird";
+"ConfirmAction" = "Aktion bestätigen";
+"ConfirmActionDesc" = "Fordert eine Bestätigung an, bevor wichtige Aktionen durchgeführt werden, z.B. Löschen oder Blockieren";
+
+/* Region Options */
+"Region" = "Region";
+"ChangeRegion" = "Region ändern";
+"ChangeRegionDesc" = "Erlaubt Ihnen, die voreingestellte Region der App zu ändern";
+"ResetRegion" = "Region zurücksetzen";
+"ResetRegionDesc" = "Setzt die Regionseinstellungen auf den Standardwert zurück";
+
+/* Fake Options */
+"Fake" = "Fälschen";
+"FakeFollowersCount" = "Anzahl der Follower fälschen";
+"FakeFollowersCountDesc" = "Erlaubt Ihnen, die angezeigte Anzahl Ihrer Follower zu ändern";
+"FakeLikesCount" = "Anzahl der Likes fälschen";
+"FakeLikesCountDesc" = "Erlaubt Ihnen, die angezeigte Anzahl Ihrer Likes zu ändern";
+
+/* Color Options */
+"Appearance" = "Erscheinungsbild";
+"Theme" = "Thema";
+"DarkMode" = "Dunkler Modus";
+"LightMode" = "Heller Modus";
+"CustomColor" = "Benutzerdefinierte Farbe";
+"CustomColorDesc" = "Wählen Sie Ihre eigene Farbe für die App-Oberfläche";
+
+/* Other Options */
+"Other" = "Andere";
+"Language" = "Sprache";
+"LanguageDesc" = "Ändert die Sprache der App-Oberfläche";
+"Feedback" = "Feedback geben";
+"RateApp" = "App bewerten";
+"ShareApp" = "App teilen";
+
