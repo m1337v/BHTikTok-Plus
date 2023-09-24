@@ -1,0 +1,92 @@
+/* Headers */
+"Einstellungen" = "Einstellungen";
+"Entwickler" = "BHTikTok Entwickler";
+"PlusEntwickler" = "BHTikTok Plus Entwickler";
+
+/* Main */
+"DownloadOptions" = "Downloads";
+"FeedOptions" = "Feed";
+"ProfileOptions" = "Profil";
+"ConfirmationOptions" = "Bestätigung";
+"RegionOptions" = "Region";
+"FakeOptions" = "Fälschen";
+"ColorOptions" = "Erscheinungsbild";
+"OtherOptions" = "Andere";
+"Apply" = "Anwenden";
+
+/* Developer */
+"TipJar" = "Trinkgeld Glas";
+"DonateViaPayPal" = "Spenden über PayPal";
+"Donate" = "Entwicklung unterstützen";
+"Telegram" = "Unser Telegram Kanal";
+"Thanks" = "Besonderer Dank";
+"DonateMessage" = "Wenn Ihnen BHTikTok Plus gefällt und Sie mich unterstützen möchten, können Sie mir einen Kaffee kaufen, auf die untenstehenden bequemen Arten.\n\nDanke❤";
+"MaybeLater" = "Vielleicht später";
+"ThankYou" = "Danke";
+
+/* Download Options */
+"DownloadFeedHeader" = "Feed";
+"DownloadVideos" = "Videos herunterladen";
+"DownloadVideosDesc" = "Fügt einen Button hinzu, um Videos ohne Wasserzeichen herunterzuladen";
+"DownloadHDVideos" = "HD Videos herunterladen";
+"DownloadHDVideosDesc" = "Fügt die Option hinzu, HD (H.265) Videos herunterzuladen. Hinweis: Dieses Format ist möglicherweise nicht mit einigen Apps kompatibel";
+"DownloadWMVideos" = "Videos mit Wasserzeichen herunterladen";
+"DownloadWMVideosDesc" = "Fügt die Option hinzu, Videos mit Wasserzeichen herunterzuladen";
+"DownloadMusics" = "Musik herunterladen";
+"DownloadMusicsDesc" = "Fügt einen Button hinzu, um Musik aus Videos herunterzuladen";
+"CopyVideoDescription" = "Videobeschreibung kopieren";
+"CopyVideoDescriptionDesc" = "Fügt einen Button hinzu, um Videobeschreibungen zu kopieren";
+"CopyVideosLink" = "Videolink kopieren";
+"CopyVideosLinkDesc" = "Fügt einen Button hinzu, um Videolinks zu kopieren";
+"CopyMusicsLink" = "Musiklink kopieren";
+"CopyMusicsLinkDesc" = "Fügt einen Button hinzu, um Musiklinks zu kopieren";
+"RemoveWatermark" = "Wasserzeichen deaktivieren";
+"RemoveWatermarkDesc" = "Nützlich, wenn Sie Videos ohne Wasserzeichen aus dem Standard TikTok Menü herunterladen möchten";
+"DownloadProfileHeader" = "Profil";
+"SaveProfileImage" = "Profilbilder speichern";
+"SaveProfileImageDesc" = "Ermöglicht das Herunterladen von Profilbildern durch langes Drücken";
+"CopyProfileInformation" = "Profilinformationen kopieren";
+"CopyProfileInformationDesc" = "Ermöglicht das Kopieren von Profilbeschreibungen durch langes Drücken auf ein Foto oder @username";
+"DownloadedAction" = "Aktion nach dem Laden";
+"SaveToPhotos" = "In Fotos speichern";
+"ShowShareSheet" = "Teilen-Menü anzeigen";
+"DownloadMenu" = "Download-Menü-Stil";
+"CompactMenu" = "Kompakt";
+"OldMenu" = "TikTok";
+
+/* Feed Options */
+"Feed" = "Feed";
+"NoAds" = "Anzeigen deaktivieren";
+"NoAdsDesc" = "Entfernt In-App-Anzeigen";
+"HideUI" = "Reiner Modus";
+"HideUIDesc" = "Fügt einen Button hinzu, um die Interface-Buttons auszublenden/anzeigen";
+"UploadRegion" = "Upload-Land anzeigen";
+"UploadRegionDesc" = "Zeigt die Flagge des Upload-Landes neben dem Benutzernamen an";
+"ShowUsername" = "Benutzername anzeigen";
+"ShowUsernameDesc" = "Zeigt Benutzername anstelle von Spitznamen, wie es in älteren Versionen der Fall war";
+"TransparentComms" = "Halbtransparente Kommentare";
+"TransparentCommsDesc" = "Macht den Hintergrund des Kommentarfensters halbtransparent, so dass Sie Kommentare lesen können, während Sie Videos ansehen";
+"ClearLinks" = "Links bereinigen";
+"ClearLinksDesc" = "Entfernt das Tracking von Links, die von Ihrem Konto geteilt werden";
+"SkipRecs" = "Empfehlungen überspringen";
+"SkipLive" = "Live-Sendungen überspringen";
+"ShowProgressBar" = "Fortschrittsleiste anzeigen";
+"PlaybackAction" = "Aktion nach Videowiedergabe";
+"Replay" = "Wiederholen";
+"Stop" = "Stoppen";
+"SkipToNext" = "Zum nächsten überspringen";
+"RegionStyle" = "Region Format und Platzierung";
+"CountryFlag" = "Landesflagge";
+"CountryCode" = "Ländercode";
+"InNickname" = "Spitzname";
+"TopRight" = "Obere rechte Ecke";
+"StartupPage" = "Startseite";
+"ForYou" = "Für Dich";
+"Following" = "Folgen";
+
+/* Profile Options */
+"FollowStatus" = "Folgestatus";
+"FollowStatusDesc" = "Zeigt den Abonnementstatus in Benutzerprofilen an";
+"VideoCount" = "Videoanzahl";
+"VideoCountDesc" = "Zeigt die Gesamtanzahl der Uploads in Benutzerprofilen an";
+"TotalVideoCount" = "Beiträge: %@"; // %@ ist die Gesamtvideomenge (Beitr
