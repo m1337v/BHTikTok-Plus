@@ -40,6 +40,10 @@
 "CopyVideosLinkDesc" = "添加复制视频链接的按钮";
 "CopyMusicsLink" = "复制音乐链接";
 "CopyMusicsLinkDesc" = "添加复制音乐链接的按钮";
+"GroupMenuItems" = "菜单项分组";
+"GroupMenuItemsDesc" = "将“下载按钮”菜单项分组为“下载”和“复制信息”子菜单";
+"CompactProgress" = "紧凑进度条";
+"CompactProgressDesc" = "在屏幕底部显示一个紧凑的下载进度条";
 "RemoveWatermark" = "禁用水印";
 "RemoveWatermarkDesc" = "可以下载没有水印的视频";
 "DownloadProfileHeader" = "个人主页";
@@ -62,14 +66,18 @@
 "HideUIDesc" = "添加一个按钮“隐藏/显示”界面按钮";
 "UploadRegion" = "显示上传国家/地区";
 "UploadRegionDesc" = "在昵称旁边显示视频的上传“国家/地区”标志";
+"NoPullToRefresh" = "禁用下拉刷新";
+"NoPullToRefreshDesc" = "禁用通过下拉手势来刷新首页内容";
 "ShowUsername" = "显示用户名而非昵称";
 "ShowUsernameDesc" = "就像在旧版本中一样，显示用户名而不是昵称。";
 "TransparentComms" = "半透明评论";
 "TransparentCommsDesc" = "使评论窗口的背景半透明，允许在观看视频时阅读评论。";
 "ClearLinks" = "删除跟踪参数";
 "ClearLinksDesc" = "从您分享的链接中删除跟踪参数";
+"NoWarnings" = "禁用警告";
+"NoWarningsDesc" = "移除视频文案下的警告信息";
 "SkipRecs" = "跳过推荐";
-"SkipLive" = "跳过直播";
+"SkipLive" = "禁用直播";
 "ShowProgressBar" = "显示进度条";
 "PlaybackAction" = "视频播放完成后的操作";
 "Replay" = "重播";
@@ -189,8 +197,6 @@
 "NicknameColorGlobalDesc" = "更改整个应用程序的昵称颜色，需要启用 \"%@\" 选项。";
 "CommentColor" =  "更改文案颜色";
 "CommentColorDesc" =  "更改视频文案的颜色";
-"CommentColorGlobal" =  "应用于评论";
-"CommentColorGlobalDesc" =  "更改评论的颜色";
 "SelectColor" = "选择颜色";
 "ProfileTextShadow" = "缩略图阴影";
 "ProfileTextShadowDesc" = "将阴影应用于个人主页中视频缩略图的统计信息";
@@ -207,6 +213,10 @@
 "PadlockDesc" = "需要密码才能解锁进入应用程序";
 "Cache" = "清除缓存";
 "Cleared" = "完成\n已清除 %@";
+"FixInteractions" = "问题修复";
+"FixInteractionsDesc" = "删除所有数据，包括可疑活动，还原订阅，点赞和媒体评论。";
+"FixInteractionsMsg" = "此操作无法撤消。\n\n所有数据，包括：授权数据，应用程序设置，本插件的设置和所有现有草稿都将被删除。\n\n你确定要继续吗？";
+"RestartApp" = "完成.\n程序需要重新启动";
 
 /* Special Thanks */
 "Arabic" = "阿拉伯语本地化";
@@ -216,6 +226,7 @@
 "French" = "法语本地化";
 "Vietnamese" = "越南语本地化";
 "Turkish" = "土耳其语本地化";
+"Japanese" = "日语本地化";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -230,6 +241,8 @@
 "No" = "不";
 "Confirm" = "确认";
 "Cancel" = "取消";
+"DownloadGroup" = "下载";
+"CopyGroup" = "复制";
 "Downloading" = "正在下载";
 "DownloadVideo" = "下载视频";
 "DownloadHDVideo" = "下载高清视频";
@@ -252,6 +265,7 @@
 "Success" = "已保存";
 "Copied" = "已复制";
 "Done" = "完成";
+"Share" = "分享";
 "NoFollows" = "没有关注";
 "FollowsYou" = "关注你";
 "DoesntFollowsYou" = "粉丝数";

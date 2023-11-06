@@ -40,6 +40,10 @@
 "CopyVideosLinkDesc" = "Añade un botón para copiar enlaces de vídeo";
 "CopyMusicsLink" = "Copiar enlace de música";
 "CopyMusicsLinkDesc" = "Añade un botón para copiar enlaces de música";
+"GroupMenuItems" = "Agrupar elementos de menú";
+"GroupMenuItemsDesc" = "Agrupa las opciones de menú para descargar y copiar submenús de información";
+"CompactProgress" = "Barra de progreso compacta";
+"CompactProgressDesc" = "Muestra una barra de progreso de descarga compacta en la parte inferior de la pantalla.";
 "RemoveWatermark" = "Desactivar marcas de agua";
 "RemoveWatermarkDesc" = "Útil si quieres descargar vídeos sin marcas de agua desde el menú estándar de TikTok.";
 "DownloadProfileHeader" = "Perfil";
@@ -62,14 +66,18 @@
 "HideUIDesc" = "Añade un botón para ocultar/mostrar los botones de la interfaz";
 "UploadRegion" = "Mostrar país de subida";
 "UploadRegionDesc" = "Muestra la bandera del país de carga del vídeo junto al nombre de usuario";
+"NoPullToRefresh" = "Desactivar gesto para actualizar";
+"NoPullToRefreshDesc" = "Desactiva el gesto de refrescar el feed tirando hacia abajo en la primera página.";
 "ShowUsername" = "Mostrar nombre de usuario";
 "ShowUsernameDesc" = "Muestra el nombre en lugar del @nick, como en las versiones anteriores";
 "TransparentComms" = "Comentarios semitransparentes";
 "TransparentCommsDesc" = "Hace que el fondo de la ventana de comentarios sea semitransparente, permitiéndote leer comentarios mientras ves vídeos";
 "ClearLinks" = "Limpiar enlaces";
 "ClearLinksDesc" = "Elimina el seguimiento de los enlaces compartidos desde tu cuenta";
+"NoWarnings" = "Desactivar advertencias";
+"NoWarningsDesc" = "Elimina el mensaje de advertencia bajo la descripción del vídeo";
 "SkipRecs" = "Saltar recomendaciones";
-"SkipLive" = "Saltar transmisiones en vivo";
+"SkipLive" = "Desactivar emisiones en directo";
 "ShowProgressBar" = "Mostrar barra de progreso";
 "PlaybackAction" = "Acción después de completar la reproducción del vídeo";
 "Replay" = "Repetir";
@@ -189,8 +197,6 @@
 "NicknameColorGlobalDesc" = "Cambia el color de los @nicks en toda la aplicación. requiere habilitar la opción '%@'";
 "CommentColor" =  "Cambiar el color de la descripción";
 "CommentColorDesc" =  "Altera los colores de las descripciones de los vídeos";
-"CommentColorGlobal" =  "Aplicar a los comentarios";
-"CommentColorGlobalDesc" =  "Altera los colores de los comentarios";
 "SelectColor" = "Elegir color";
 "ProfileTextShadow" = "Aplicar sombra a las miniaturas";
 "ProfileTextShadowDesc" = "Aplica sombra a las estadísticas en las miniaturas de vídeo en los perfiles";
@@ -207,6 +213,10 @@
 "PadlockDesc" = "Requiere una contraseña para desbloquear la aplicación";
 "Cache" = "Limpiar caché";
 "Cleared" = "Hecho\nLimpiado %@";
+"FixInteractions" = "Corregir interacciones";
+"FixInteractionsDesc" = "Elimina todos los datos, incluida la actividad sospechosa, con lo que se restablece la posibilidad de suscribirse, dar me gusta y comentar medios.";
+"FixInteractionsMsg" = "ESTA ACCIÓN NO PUEDE DESHACERSE.\n\nTodos los datos, incluyendo: Datos de autorización, ajustes de la App, ajustes de tweaks y todos los borradores existentes serán eliminados.\n\n¿Estás seguro de que quieres continuar?";
+"RestartApp" = "Hecho.\nEs necesario reiniciar la aplicación";
 
 /* Special Thanks */
 "Arabic" = "Traducción en Árabe";
@@ -216,6 +226,7 @@
 "French" = "Traducción en Francés";
 "Vietnamese" = "Traducción en Vietnamita";
 "Turkish" = "Traducción en Turco";
+"Japanese" = "Traducción en Japonés";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -225,11 +236,13 @@
 "ActionDislike" = "No me gusta";
 "ConfirmAction" = "Confirmar acción";
 "Warning" = "Aviso";
-"ApplyDesc" = "Esta acción cerrará la aplicación para aplicar los cambios.\n¿Estás seguro?";
+"ApplyDesc" = "Esta acción cerrará la aplicación para aplicar los cambios.\n\n¿Estás seguro?";
 "Yes" = "Sí";
 "No" = "No";
 "Confirm" = "Confirmar";
 "Cancel" = "Cancelar";
+"DownloadGroup" = "Descargar";
+"CopyGroup" = "Copiar";
 "Downloading" = "Descargando";
 "DownloadVideo" = "Descargar vídeo";
 "DownloadHDVideo" = "Descargar vídeo en HD";
@@ -252,7 +265,8 @@
 "Success" = "Guardado";
 "Copied" = "Copiado";
 "Done" = "Hecho";
-"NoFollows" = "Sin seguir";
+"Share" = "Compartir";
+"NoFollows" = "No te sigue";
 "FollowsYou" = "Te sigue";
 "DoesntFollowsYou" = "Siguiendo";
 "Friends" = "Amigos";

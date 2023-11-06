@@ -40,6 +40,10 @@
 "CopyVideosLinkDesc" = "يضيف خيار لنسخ رابط الفيديو";
 "CopyMusicsLink" = "نسخ رابط الصوت";
 "CopyMusicsLinkDesc" = "يضيف خيار لنسخ رابط الصوت";
+"GroupMenuItems" = "Group Menu Items";
+"GroupMenuItemsDesc" = "Groups menu items to Download and Copy Information submenus";
+"CompactProgress" = "Compact Progress Bar";
+"CompactProgressDesc" = "Displays a compact downloading progress bar at the bottom of the screen";
 "RemoveWatermark" = "تعطيل العلامة المائية";
 "RemoveWatermarkDesc" = "يسمح بحفظ المنشورات بدون علامة مائية من قائمة المشاركة";
 "DownloadProfileHeader" = "الملف الشخصي";
@@ -62,14 +66,18 @@
 "HideUIDesc" = "يضيف خيار لإخفاء أزرار الواجهة";
 "UploadRegion" = "منطقة المنشور";
 "UploadRegionDesc" = "يعرض رمز أو علم منطقة المنشور";
+"NoPullToRefresh" = "Disable Pull To Refresh";
+"NoPullToRefreshDesc" = "Disables the gesture to refresh the feed by pulling down on the first page";
 "ShowUsername" = "عرض أسم المستخدم بدلًا من الاسم المستعار";
 "ShowUsernameDesc" = "يعرض أسم المستخدم بدلا من الاسم المستعار، كما كان في الإصدارات القديمة";
 "TransparentComms" = "تعليقات شفافة";
 "TransparentCommsDesc" = "يجعل خلفية التعليقات شبه شفافة، مما يسمح لك بقراءة التعليقات أثناء مشاهدة المنشور";
 "ClearLinks" = "إزالة تتبع";
 "ClearLinksDesc" = "يزيل التتبع من الروابط المشاركة من حسابك";
+"NoWarnings" = "Disable Warnings";
+"NoWarningsDesc" = "Removes the warning message under the video description";
 "SkipRecs" = "تخطي التوصيات";
-"SkipLive" = "تخطي البث المباشر";
+"SkipLive" = "Disable Live Broadcasts";
 "ShowProgressBar" = " أظهر شريط التقدم دائمًا";
 "PlaybackAction" = "الإجراء بعد الانتهاء من تشغيل الفيديو";
 "Replay" = "تكرار";
@@ -205,6 +213,10 @@
 "PadlockDesc" = "يظهر نافذة رمز المرور لفتح قفل التطبيق";
 "Cache" = "مسح ذاكرة التخزين المؤقت";
 "Cleared" = "تم\nمسح %@";
+"FixInteractions" = "Fix Interactions";
+"FixInteractionsDesc" = "Removes all data, including suspicious activity, thus restoring the ability to subscribe, like, and comment media";
+"FixInteractionsMsg" = "THIS ACTION CANNOT BE UNDONE.\n\nAll data, including: Authorization data, App settings, Tweaks settings and All existing drafts will be deleted.\n\nAre you sure you want to continue?";
+"RestartApp" = "Done.\nApp restart required";
 
 /* Special Thanks */
 "Arabic" = "ترجمها إلى العربية";
@@ -214,6 +226,7 @@
 "French" = "ترجمها إلى الفرنسية";
 "Vietnamese" = "ترجمها إلى الفتنامية";
 "Turkish" = "ترجمها إلى التركية";
+"Japanese" = "Japanese localization";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus إعدادات";
@@ -228,6 +241,8 @@
 "No" = "لا";
 "Confirm" = "تأكيد";
 "Cancel" = "إلغاء";
+"DownloadGroup" = "Download";
+"CopyGroup" = "Copy";
 "Downloading" = "جاري الحفظ";
 "DownloadVideo" = "حفظ الفيديو";
 "DownloadHDVideo" = "حفظ الفيديو بجودة عالية";
@@ -250,6 +265,7 @@
 "Success" = "تم حفظه";
 "Copied" = "تم نسخه";
 "Done" = "تم";
+"Share" = "Share";
 "NoFollows" = "لا توجد بينكم متابعة";
 "FollowsYou" = "يتابعك";
 "DoesntFollowsYou" = "لا يتابعك";

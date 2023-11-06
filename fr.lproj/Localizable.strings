@@ -30,8 +30,8 @@
 "DownloadVideosDesc" = "Ajoute un bouton pour télécharger des vidéos sans filigrane";
 "DownloadHDVideos" = "Télécharger des vidéos HD";
 "DownloadHDVideosDesc" = "Ajoute une option pour télécharger des vidéos HD (H.265). Remarque : ce format peut ne pas être compatible avec certaines applications";
-"DownloadWMVideos" = "Download Watermarked Videos";
-"DownloadWMVideosDesc" = "Adds option to download watermarked videos";
+"DownloadWMVideos" = "Télécharger des vidéos filigranées";
+"DownloadWMVideosDesc" = "Ajoute une option pour télécharger des vidéos filigranées";
 "DownloadMusics" = "Télécharger de la musique";
 "DownloadMusicsDesc" = "Ajoute un bouton pour télécharger de la musique à partir de vidéos";
 "CopyVideoDescription" = "Copier la description de la vidéo";
@@ -40,6 +40,10 @@
 "CopyVideosLinkDesc" = "Ajoute un bouton pour copier les liens vidéo";
 "CopyMusicsLink" = "Copier le lien musical";
 "CopyMusicsLinkDesc" = "Ajoute un bouton pour copier les liens musicaux";
+"GroupMenuItems" = "Éléments du menu de groupe";
+"GroupMenuItemsDesc" = "Regroupe les éléments de menu dans les sous-menus Télécharger et Copier les informations.";
+"CompactProgress" = "Barre de progression compacte";
+"CompactProgressDesc" = "Affiche une barre de progression de téléchargement compacte en bas de l'écran";
 "RemoveWatermark" = "Désactiver les filigranes";
 "RemoveWatermarkDesc" = "Utile si vous souhaitez télécharger des vidéos sans filigrane depuis le menu standard de TikTok";
 "DownloadProfileHeader" = "Profil";
@@ -62,14 +66,18 @@
 "HideUIDesc" = "Ajoute un bouton pour masquer/afficher les boutons de l'interface";
 "UploadRegion" = "Afficher le pays de téléchargement";
 "UploadRegionDesc" = "Affiche le drapeau du pays de téléchargement de la vidéo à côté du nom d'utilisateur";
+"NoPullToRefresh" = "Désactiver l'extraction pour actualiser";
+"NoPullToRefreshDesc" = "Désactive le geste pour actualiser le flux en tirant vers le bas sur la première page";
 "ShowUsername" = "Afficher le nom d'utilisateur";
 "ShowUsernameDesc" = "Affiche le nom d'utilisateur au lieu du surnom, comme c'était le cas dans les anciennes versions";
 "TransparentComms" = "Commentaires semi-transparents";
 "TransparentCommsDesc" = "Rend l'arrière-plan de la fenêtre de commentaires semi-transparent, vous permettant de lire les commentaires tout en regardant des vidéos";
 "ClearLinks" = "Effacer les liens";
 "ClearLinksDesc" = "Supprime le suivi des liens partagés depuis votre compte";
+"NoWarnings" = "Désactiver les avertissements";
+"NoWarningsDesc" = "Supprime le message d'avertissement sous la description de la vidéo";
 "SkipRecs" = "Ignorer les recommandations";
-"SkipLive" = "Ignorer les diffusions en direct";
+"SkipLive" = "Désactiver les diffusions en direct";
 "ShowProgressBar" = "Afficher la barre de progression";
 "PlaybackAction" = "Action après la fin de la lecture vidéo";
 "Replay" = "Répéter";
@@ -187,10 +195,8 @@
 "NicknameColorDesc" = "Modifie la couleur des surnoms dans le flux";
 "NicknameColorGlobal" = "Appliquer à tous les surnoms";
 "NicknameColorGlobalDesc" = "Change la couleur des surnoms dans toute l'application. Activation de l'option \"%@\" requise";
-"CommentColor" =  "Change Description Color";
-"CommentColorDesc" =  "Alters the colors of video descriptions";
-"CommentColorGlobal" =  "Apply to comments";
-"CommentColorGlobalDesc" =  "Alters the colors of comments";
+"CommentColor" =  "Changer la couleur de la description";
+"CommentColorDesc" =  "Modifie les couleurs des descriptions vidéo";
 "SelectColor" = "Choisir la couleur";
 "ProfileTextShadow" = "Appliquer une ombre aux vignettes";
 "ProfileTextShadowDesc" = "Applique une ombre aux statistiques sur les miniatures vidéo dans les profils";
@@ -207,6 +213,10 @@
 "PadlockDesc" = "Nécessite un mot de passe pour déverrouiller l'application";
 "Cache" = "Vider le cache";
 "Cleared" = "Fait\nEffacé %@";
+"FixInteractions" = "Corriger les interactions";
+"FixInteractionsDesc" = "Supprime toutes les données, y compris les activités suspectes, rétablissant ainsi la possibilité de s'abonner, d'aimer et de commenter les médias";
+"FixInteractionsMsg" = "CETTE ACTION NE PEUT PAS ÊTRE ANNULÉE.\n\nToutes les données, y compris: les données d'autorisation, les paramètres de l'application, les paramètres des réglages et tous les brouillons existants, seront supprimés.\n\nÊtes-vous sûr de vouloir continuer?";
+"RestartApp" = "Terminé.\nRedémarrage de l'application requis";
 
 /* Special Thanks */
 "Arabic" = "Localisation arabe";
@@ -215,7 +225,8 @@
 "Spanish" = "Localisation espagnole";
 "French" = "Localisation française";
 "Vietnamese" = "Localisation vietnamienne";
-"Turkish" = "Turkish localization";
+"Turkish" = "Localisation turque";
+"Japanese" = "Localisation japonaise";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -225,15 +236,17 @@
 "ActionDislike" = "Ne pas aimer";
 "ConfirmAction" = "Confirmer l'action";
 "Warning" = "Warning";
-"ApplyDesc" = "This action will close the app to apply the changes.\n\nAre you sure?";
+"ApplyDesc" = "Cette action fermera l'application pour appliquer les modifications.\n\nÊtes-vous sûr?";
 "Yes" = "Oui";
 "No" = "Non";
 "Confirm" = "Confirmer";
 "Cancel" = "Annuler";
+"DownloadGroup" = "Télécharger";
+"CopyGroup" = "Copie";
 "Downloading" = "Téléchargement";
 "DownloadVideo" = "Télécharger la video";
 "DownloadHDVideo" = "Télécharger la vidéo HD";
-"DownloadWMVideo" = "Download Watermarked";
+"DownloadWMVideo" = "Télécharger en filigrane";
 "DownloadMusic" = "Télécharger de la musique";
 "CopyVideoLink" = "Copier le lien vidéo";
 "CopyMusicLink" = "Copier le lien musical";
@@ -248,10 +261,11 @@
 "CopyBio" = "Copier la biographie";
 "CopyBioURL" = "Copier l'URL du profil";
 "VidNoMusic" = "La vidéo n'a pas de musique";
-"VidNoDescription" = "Media has no description";
+"VidNoDescription" = "Le média n'a pas de description";
 "Success" = "Enregistré";
 "Copied" = "Copié";
 "Done" = "Fait";
+"Share" = "Partager";
 "NoFollows" = "Aucun suivi";
 "FollowsYou" = "Vous suit";
 "DoesntFollowsYou" = "Abonnement";

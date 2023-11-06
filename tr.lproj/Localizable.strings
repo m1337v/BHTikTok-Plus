@@ -40,6 +40,10 @@
 "CopyVideosLinkDesc" = "Video bağlantılarını kopyalamak için bir düğme ekler";
 "CopyMusicsLink" = "Müzik Bağlantısını Kopyala";
 "CopyMusicsLinkDesc" = "Müzik bağlantılarını kopyalamak için bir düğme ekler";
+"GroupMenuItems" = "Menü Öğeleri Grupla";
+"GroupMenuItemsDesc" = "Menü öğelerini İndir ve Kopyala alt menülere gruplandırır";
+"CompactProgress" = "Compact Progress Bar";
+"CompactProgressDesc" = "Displays a compact downloading progress bar at the bottom of the screen";
 "RemoveWatermark" = "Filigranları Devre Dışı Bırak ";
 "RemoveWatermarkDesc" = "Standart TikTok menüsünden filigransız videolar indirmek istiyorsanız kullanışlıdır ";
 "DownloadProfileHeader" = "Profil";
@@ -62,14 +66,18 @@
 "HideUIDesc" = "Arayüz düğmelerini gizlemek/göstermek için bir düğme ekler";
 "UploadRegion" = "Yükleme Ülkesini Görüntüle";
 "UploadRegionDesc" = "Kullanıcı adının yanında videonun yüklendiği ülke bayrağını gösterir";
+"NoPullToRefresh" = "Yenilemeyi Devre Dışı Bırak";
+"NoPullToRefreshDesc" = "İlk sayfayı aşağı çekerek beslemeyi yenileme hareketini devre dışı bırakır";
 "ShowUsername" = "Kullanıcı Adını Göster";
 "ShowUsernameDesc" = "Eski sürümlerde olduğu gibi takma ad yerine kullanıcı adını gösterir";
 "TransparentComms" = "Yarı şeffaf Yorumlar";
 "TransparentCommsDesc" = "Yorum penceresinin arka planını yarı saydam hale getirerek video izlerken yorumları okumanızı sağlar";
 "ClearLinks" = "Bağlantıları Temizle";
 "ClearLinksDesc" = "Hesabınızdan paylaşılan bağlantıların takibini kaldırır";
+"NoWarnings" = "Uyarıları Devre Dışı Bırak";
+"NoWarningsDesc" = "Video açıklamasının altındaki uyarı mesajını kaldırır";
 "SkipRecs" = "Önerileri Atla";
-"SkipLive" = "Canlı Yayınları Atla";
+"SkipLive" = "Yayınları Devre Dışı Bırak";
 "ShowProgressBar" = "İlerleme Çubuğunu Göster";
 "PlaybackAction" = "Video Oynatma Tamamlandıktan Sonra Yapılacak İşlem";
 "Replay" = "Tekrarla";
@@ -189,8 +197,6 @@
 "NicknameColorGlobalDesc" = "Uygulama boyunca takma adların rengini değiştirir. \"%@\" seçeneğinin etkinleştirilmesi gerekiyor";
 "CommentColor" =  "Açıklamaların Rengini Değiştir";
 "CommentColorDesc" =  "Video açıklamalarının renklerini değiştirir";
-"CommentColorGlobal" =  "Yorumlara Uygula";
-"CommentColorGlobalDesc" =  "Aynı rengi yorumlara uygular";
 "SelectColor" = "Renk seç";
 "ProfileTextShadow" = "Küçük Resimlere Gölge Uygula";
 "ProfileTextShadowDesc" = "Profillerdeki video küçük resimlerindeki istatistiklere gölge uygular";
@@ -206,7 +212,11 @@
 "Padlock" = "Parola Kilidi";
 "PadlockDesc" = "Uygulamanın kilidini açmak için şifre gerekir";
 "Cache" = "Önbelleği Temizle";
-"Cleared" = "Bitti\nTemizlendi %@";
+"Cleared" = "Bitti.\nTemizlendi %@";
+"FixInteractions" = "Etkileşimleri Düzelt";
+"FixInteractionsDesc" = "Şüpheli etkinlik dahil tüm verileri kaldırarak abone olma, beğenme ve yorum yapma gibi yetenekleri geri getirir";
+"FixInteractionsMsg" = "BU İŞLEM GERİ ALINAMAZ.\n\nDahil olmak üzere tüm veriler: Yetkilendirme verileri, Uygulama ayarları, Tweaks ayarları ve mevcut tüm taslaklar silinecektir.\n\nDevam etmek istediğine emin misin?";
+"RestartApp" = "Bitti.\nUygulama yeniden başlatılması gerekiyor";
 
 /* Special Thanks */
 "Arabic" = "Arapça yerelleştirmesi";
@@ -216,6 +226,7 @@
 "Fransız" = "Fransız yerelleştirmesi";
 "Vietnamca" = "Vietnamca yerelleştirmesi";
 "Turkish" = "Türkçe yerelleştirmesi";
+"Japanese" = "Japonca yerelleştirmesi";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -230,6 +241,8 @@
 "No" = "Hayır";
 "Confirm" = "Onayla";
 "Cancel" = "İptal et";
+"DownloadGroup" = "İndir";
+"CopyGroup" = "Kopyala";
 "Downloading" = "İndiriliyor";
 "DownloadVideo" = "Video indir";
 "DownloadHDVideo" = "HD Videoyu İndir";
@@ -252,6 +265,7 @@
 "Success" = "Kaydedildi";
 "Copied" = "Kopyalandı";
 "Done" = "Bitti";
+"Share" = "Paylaş";
 "NoFollows" = "Hayır takip etmiyor";
 "FollowsYou" = "Seni takip ediyor";
 "DoesntFollowsYou" = "Takip";

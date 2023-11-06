@@ -40,6 +40,10 @@
 "CopyVideosLinkDesc" = "新增一個複製影片連結的按鈕";
 "CopyMusicsLink" = "複製音樂連結";
 "CopyMusicsLinkDesc" = "新增一個複製音樂連結的按鈕";
+"GroupMenuItems" = "群組選單項目";
+"GroupMenuItemsDesc" = "將群組選單項目分為下載和複製資訊子選單";
+"CompactProgress" = "縮小進度條";
+"CompactProgressDesc" = "在螢幕底部顯示緊湊的下載進度條";
 "RemoveWatermark" = "停用浮水印";
 "RemoveWatermarkDesc" = "若您想從標準 TikTok 選單中下載無浮水印的影片，此功能非常實用";
 "DownloadProfileHeader" = "個人資料";
@@ -62,14 +66,18 @@
 "HideUIDesc" = "新增按鈕以隱藏/顯示介面按鈕";
 "UploadRegion" = "顯示上傳國家";
 "UploadRegionDesc" = "在使用者名稱旁顯示影片的上傳國家國旗";
+"NoPullToRefresh" = "停用下拉重新整理";
+"NoPullToRefreshDesc" = "禁用在第一頁向下拉動時重新整理動態";
 "ShowUsername" = "顯示使用者名稱而非暱稱";
 "ShowUsernameDesc" = "顯示用戶名而不是暱稱，就像舊版本中一樣";
 "TransparentComms" = "半透明評論";
 "TransparentCommsDesc" = "使評論視窗的背景半透明，讓您在觀看影片時能讀取評論";
 "ClearLinks" = "清除連結";
 "ClearLinksDesc" = "從你的帳號中刪除共享的連結追蹤";
+"NoWarnings" = "停用警告";
+"NoWarningsDesc" = "移除影片描述下的警告訊息";
 "SkipRecs" = "跳過推薦";
-"SkipLive" = "跳過直播";
+"SkipLive" = "停用直播";
 "ShowProgressBar" = "顯示進度條";
 "PlaybackAction" = "影片播放結束後的動作";
 "Replay" = "重覆播放";
@@ -189,8 +197,6 @@
 "NicknameColorGlobalDesc" = "應用程式中的任何位置套用暱稱顏色。需要開啟 \"%@\" 選項";
 "CommentColor" =  "更改描述文字顏色";
 "CommentColorDesc" =  "變更影片描述的顏色";
-"CommentColorGlobal" =  "套用至評論";
-"CommentColorGlobalDesc" =  "調整評論的顏色";
 "SelectColor" = "選擇顏色";
 "ProfileTextShadow" = "縮圖套用陰影";
 "ProfileTextShadowDesc" = "在個人資料中的影片縮圖上套用陰影到統計數據";
@@ -207,6 +213,10 @@
 "PadlockDesc" = "需要密碼解鎖應用";
 "Cache" = "清除快取";
 "Cleared" = "完成\n已清除 %@";
+"FixInteractions" = "修復問題";
+"FixInteractionsDesc" = "移除所有資料，包括可疑活動，還原訂閱、點讚和評論媒體的功能";
+"FixInteractionsMsg" = "此動作無法還原.\n\n所有資料, 包括: 授權資料、應用程式設定、BHTikTok Plus設定和所有現有草稿將被刪除.\n\n是否確定要繼續?";
+"RestartApp" = "完成.\n應用程式需要重新啟動";
 
 /* Special Thanks */
 "Arabic" = "阿拉伯語本地化";
@@ -216,6 +226,7 @@
 "French" = "法語本地化";
 "Vietnamese" = "越南語本地化";
 "Turkish" = "土耳其語本地化";
+"Japanese" = "日語本地化";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -230,6 +241,8 @@
 "No" = "否";
 "Confirm" = "確認";
 "Cancel" = "取消";
+"DownloadGroup" = "下載";
+"CopyGroup" = "複製";
 "Downloading" = "下載中...";
 "DownloadVideo" = "下載影片";
 "DownloadHDVideo" = "下載高畫質影片";
@@ -252,6 +265,7 @@
 "Success" = "已儲存";
 "Copied" = "已複製";
 "Done" = "完成";
+"Share" = "分享";
 "NoFollows" = "尚未關注";
 "FollowsYou" = "已關注你";
 "DoesntFollowsYou" = "已關注";
