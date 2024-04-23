@@ -1,0 +1,276 @@
+/* Headers */
+"Settings" = "Ustawienia";
+"Developer" = "BHTikTok deweloper";
+"PlusDeveloper" = "BHTikTok Plus deweloper";
+
+/* Main */
+"DownloadOptions" = "Pobrane";
+"FeedOptions" = "Ustawienia Feed";
+"ProfileOptions" = "Profil";
+"ConfirmationOptions" = "Potwierdzenie";
+"RegionOptions" = "Region";
+"FakeOptions" = "Opcje spoof";
+"ColorOptions" = "Wygląd";
+"OtherOptions" = "Pozostałe";
+"Apply" = "Zatwierdź";
+
+/* Developer */
+"TipJar" = "Dotacje";
+"DonateViaPayPal" = "Wesprzyj przez PayPal";
+"Donate" = "Wesprzyj prace";
+"Telegram" = "Nasz kanał Telegram";
+"Thanks" = "Specjalne podziękowania";
+"DonateMessage" = "Jeśli podoba Ci się projekt i chciałbyś mnie wesprzeć, użyj jednej z preferowanych form dotacji na dole.\n\nDziękuję❤";
+"MaybeLater" = "Może Później";
+"ThankYou" = "Dziękuję";
+
+/* Download Options */
+"DownloadFeedHeader" = "Feed";
+"DownloadVideos" = "Pobieranie Filmów";
+"DownloadVideosDesc" = "Dodaje przycisk do pobrania filmu bez znaku wodnego";
+"DownloadHDVideos" = "Pobieranie Filmów w HD";
+"DownloadHDVideosDesc" = "Pobieranie wideo w wyższej jakości (H.265). Uwaga: Ten format może być niekompatybilny z niektórymi aplikacjami";
+"DownloadWMVideos" = "Pobierz Filmy z znakiem wodnym";
+"DownloadWMVideosDesc" = "Dodaje opcję pobrania filmów zawierających znak wodny";
+"DownloadMusics" = "Pobierz Muzykę";
+"DownloadMusicsDesc" = "Dodaje opcję pobrania muzyki z filmu";
+"CopyVideoDescription" = "Kopiuj Opis Filmu";
+"CopyVideoDescriptionDesc" = "Dodaje przycisk do kopiowania opisu filmu";
+"CopyVideosLink" = "Kopiuj Link Filmu";
+"CopyVideosLinkDesc" = "Dodaje przycisk kopiowania linku do wideo";
+"CopyMusicsLink" = "Kopiuj Link Utworu";
+"CopyMusicsLinkDesc" = "Dodaje przycisk kopiowania linku do utworu";
+"GroupMenuItems" = "Grupuj Elementy Menu";
+"GroupMenuItemsDesc" = "Grupuje elementy menu, by pobrać i skopiować elementy podmenu informacyjnego";
+"CompactProgress" = "Kompaktowy Pasek Progresu";
+"CompactProgressDesc" = "Wyświetla kompaktowy pasek progresu pobierania zawartości u dołu ekranu";
+"RemoveWatermark" = "Wyłącz Znaki Wodne";
+"RemoveWatermarkDesc" = "Przydatne, gdy chcesz pobrać materiał bez znaku wodnego poprzez standardowe menu TikTok'a";
+"DownloadProfileHeader" = "Profil";
+"SaveProfileImage" = "Zapisuj Profilówki";
+"SaveProfileImageDesc" = "Umożliwia pobranie zdjęcia profilowego po dłuższym przytrzymaniu";
+"CopyProfileInformation" = "Kopiuj Informacje Profilu";
+"CopyProfileInformationDesc" = "Umożliwia kopiowanie opisu profilu po dłuższym naciśnięciu na profilówkę lub @nazwe_użytkownika";
+"DownloadedAction" = "Opcje Po Załadowaniu";
+"SaveToPhotos" = "Zapisz do Zdjęć";
+"ShowShareSheet" = "Pokaż Opcje Udostępniania";
+"DownloadMenu" = "Menu Pobierania";
+"CompactMenu" = "Kompaktowe";
+"OldMenu" = "TikTok";
+
+/* Feed Options */
+"Feed" = "Feed";
+"NoAds" = "Wyłącz Reklamy";
+"NoAdsDesc" = "Wyłącza reklamy w aplikacji";
+"HideUI" = "Tryb "Czysty"";
+"HideUIDesc" = "Dodaje przycisk pokazywania/ukrywania przycisków interfejsu";
+"UploadRegion" = "Wyświetl Kraj Pochodzenia";
+"UploadRegionDesc" = "Wyświetla flagę kraju z którego pochodzi film obok nazwy użytkownika";
+"NoPullToRefresh" = "Wyłącz "Przeciągnij, by odświeżyć"";
+"NoPullToRefreshDesc" = "Wyłącza gest przeciągania z góry do dołu by odświeżyć, na pierwszym wyświetlonym filmie";
+"ShowUsername" = "Wyświetl Imię";
+"ShowUsernameDesc" = "Wyświetla Nazwę zamiast Nazwy Użytkownika, jak we wcześniejszych wersjach aplikacji";
+"TransparentComms" = "Półprzezroczyste Komentarze";
+"TransparentCommsDesc" = "Zamienia tło okna komentarzy na półprzezroczyste, co umożliwia na bezinwazyjne oglądanie";
+"ClearLinks" = "Wyczyść Linki";
+"ClearLinksDesc" = "Usuwa śledzenie z linków udostępnionych z twojego konta";
+"NoWarnings" = "Wyłącz Ostrzeżenia";
+"NoWarningsDesc" = "Usuwa ostrzeżenia z deskrypcji filmu";
+"SkipRecs" = "Pomiń Rekomendowane";
+"SkipLive" = "Wyłącz materiały Na Żywo";
+"ShowProgressBar" = "Pokaż Pasek Postępu";
+"PlaybackAction" = "Akcja po zakończeniu odtwarzania";
+"Replay" = "Powtórz";
+"Stop" = "Stop";
+"SkipToNext" = "Przewiń do następnego";
+"RegionStyle" = "Format Regionu i Umieszczenie";
+"CountryFlag" = "Flaga Kraju";
+"CountryCode" = "Kod Kraju";
+"InNickname" = "Nazwa Użytkownika";
+"TopRight" = "Górny Prawy Narożnik";
+"StartupPage" = "Strona Startowa";
+"ForYou" = "Dla Ciebie";
+"Following" = "Obserwowani";
+
+/* Profile Options */
+"FollowStatus" = "Status Obserwowania";
+"FollowStatusDesc" = "Wyświetla status subskrypcji w profilach użytkowników";
+"VideoCount" = "Ilość Filmów";
+"VideoCountDesc" = "Wyświetla całkowitą liczbę materiałów w profilach użytkowników";
+"TotalVideoCount" = "Posty: %@";
+"UploadDate" = "Data Opublikowania Wideo";
+"UploadDateDesc" = "Wyświetla datę publikacji materiału na miniaturce w profilach użytkowników";
+"ProfileLikeCount" = "Ilość Polubień";
+"ProfileLikeCountDesc" = "Wyświetla całkowitą ilość polubień materiału na miniaturkach w profilach użytkowników";
+"UnsensitiveContent" = "Nie-sensytywna Zawartość";
+"UnsensitiveContentDesc" = "Usuwa ostrzeżenie dotyczące wrażliwej zawartości";
+"NoJustWatched" = "Usuń \"Właśnie Obejrzane\"";
+"NoJustWatchedDesc" = "Usuwa napis \"Właśnie Obejrzane\" z miniaturki filmu";
+"ExtendBio" = "Zwiększ Limit w Bio";
+"ExtendBioDesc" = "Zwiększa limit znaków w opisach profili do 222";
+"ExtendComment" = "Zwiększ Limit w Komentarzach";
+"ExtendCommentDesc" = "Zwiększa limit znaków dla komentarzy do 240";
+"UploadHD" = "Zawsze udostępniaj w HD";
+"UploadHDDesc" = "Wymusza na aplikacji dodanie filmu w jakości HD";
+
+/* Confirmation Options */
+"ConfirmLike" = "Potwierdź Polubienie";
+"ConfirmLikeDesc" = "Wymaga potwierdzenia przed polubieniem materiału";
+"ConfirmCommentLike" = "Potwierdź Polubienie Komentarza";
+"ConfirmCommentLikeDesc" = "Wymaga potwierdzenia przed polubieniem komentarza";
+"ConfirmCommentDislike" = "Potwierdź Dislike";
+"ConfirmCommentDislikeDesc" = "Wymaga potwierdzenia przed dislike'iem";
+"ConfirmFollow" = "Potwierdź Obserwowanie";
+"ConfirmFollowDesc" = "Wymaga potwierdzenia przed zaobserwowaniem profilu";
+
+/* Region Options */
+"EnableChangingRegion" = "Zmień Region";
+"Regions" = "Regiony";
+"SaudiArabia" = "Arabia Saudyjska";
+"Taiwan" = "Tajwan";
+"HongKong" = "Hong Kong";
+"Macao" = "Makau";
+"Japan" = "Japonia";
+"SouthKorea" = "Korea Południowa";
+"UnitedKingdom" = "Wielka Brytania";
+"UnitedStates" = "Stany Zjednoczone";
+"Australia" = "Australia";
+"Canada" = "Kanada";
+"Argentina" = "Argentyna";
+"Philippines" = "Filipiny";
+"Laos" = "Laos";
+"Malaysia" = "Malazja";
+"Thailand" = "Tajlandia";
+"Singapore" = "Singapur";
+"Indonesia" = "Indonezja";
+"Vietnam" = "Wietnam";
+"Anguilla" = "Anguilla";
+"Panama" = "Panama";
+"Germany" = "Niemcy";
+"Russia" = "Rosja";
+"Belarus" = "Białoruś";
+"Ukraine" = "Ukraina";
+"Kazakhstan" = "Kazachstan";
+"France" = "Francja";
+"Finland" = "Finlandia";
+"Italy" = "Włochy";
+"Pakistan" = "Pakistan";
+"Denmark" = "Dania";
+"Norway" = "Norwegia";
+"Sudan" = "Sudan";
+"Romania" = "Rumunia
+"UnitedArabEmirates" = "Zjednoczone Emiraty Arabskie";
+"Egypt" = "Egipt";
+"Lebanon" = "Liban";
+"Mexico" = "Meksyk";
+"Brazil" = "Brazylia";
+"Turkey" = "Turcja";
+"Kuwait" = "Kuwejt";
+"Algeria" = "Algieria";
+"Senegal" = "Senegal";
+"Switzerland" = "Szwajcaria";
+"Albania" = "Albania";
+"Moldova" = "Mołdawia";
+"Croatia" = "Chorwacja";
+"Morocco" = "Maroko";
+"Yemen" = "Jemen";
+"Turkmenistan" = "Turkmenistan";
+"Uzbekistan" = "Uzbekistan";
+"Azerbaijan" = "Azerbejdżan";
+"Netherlands" = "Holandia";
+"Poland" = "Polska";
+"CzechRepublic" = "Czechy";
+
+/* Fake Options */
+"FakeBlueMark" = "Plakietka Weryfikacji (nieprawdziwa)";
+"EnableFakeOptions" = "Nieprawdziwe Polubienia/Subskrypcje";
+"FollowerCount" = "Ilość Obserwujących";
+"FollowingCount" = "Ilość Obserwowanych";
+"LikeCount" = "Ilość Polubień";
+"EnterNumber" = "Wpisz liczbę";
+"FakeDesc" = "Pozostaw pola puste dla zachowania standardowych wartości, liczby te są widoczne tylko dla ciebie.";
+
+/* Color Options */
+"NicknameColor" = "Zmień Kolor Nazwy Użytkownika";
+"NicknameColorDesc" = "Manipuluje kolorem nazw użytkowników na karcie Feed";
+"NicknameColorGlobal" = "Zastosuj dla Wszystkich Nazw Użytkownika";
+"NicknameColorGlobalDesc" = "Zmienia kolor nazw na przestrzeni aplikacji. Włączenie opcji \"%@\" wymagane";
+"CommentColor" =  "Zmień Kolor Opisów";
+"CommentColorDesc" =  "Manipuluje kolorami deskrypcji pod filmami";
+"SelectColor" = "Wybierz Kolor";
+"ProfileTextShadow" = "Użyj Cieni dla Miniatur";
+"ProfileTextShadowDesc" = "Włącza cienie pod statystykami na miniaturkach filmów";
+"NicknameTextShadow" = "Użyj Cieni dla Nazw";
+"NicknameTextShadowDesc" = "Włącza cienie pod nazwami użytkownika w sekcji Feed";
+"NicknameGlobalShadow" = "Zastosuj dla Wszystkich Nazw";
+"NicknameGlobalShadowDesc" = "Włącza cienie pod nazwami na przestrzeni całej aplikacji. Włączenie opci \"%@\" wymagane";
+
+/* Other */
+"BHButtonPlacement" = "Położenie Przycisku Ustawień BHTikTok";
+"InProfile" = "W Profilu";
+"InSettings" = "W Ustawieniach";
+"Padlock" = "Zabezpieczenie Kodem";
+"PadlockDesc" = "Wymagaj kodu by odblokować aplikacje";
+"Cache" = "Wyczyść Pamięć Podręczną";
+"Cleared" = "Gotowe.\nWyczyszczono %@";
+"FixInteractions" = "Napraw Interakcje";
+"FixInteractionsDesc" = "Usuwa wszystkie dane, w tym podejrzane dane, co przywraca możliwość like'owania, subskrybowania i komentowania zawartości";
+"FixInteractionsMsg" = "TA AKCJA NIE MOŻE BYĆ COFNIĘTA.\n\nCałe dane, wraz z: Autoryzacją, Ustawieniami i wszystkimi dostępnymi wersjami roboczymi zostaną usunięte\n\nCzy na pewno chcesz kontynuować?";
+"RestartApp" = "Gotowe.\nWymagany jest restart aplikacji";
+
+/* Special Thanks */
+"Arabic" = "Arabskie tłumaczenie";
+"ChineseSimplified" = "Uproszczone chińskie tłumaczenie";
+"ChineseTraditional" = "Tradycyjne chińskie tłumaczenie";
+"Spanish" = "Hiszpańskie tłumaczenie";
+"French" = "Francuskie tłumacznie";
+"Vietnamese" = "Wietnamskie tłumaczenie";
+"Turkish" = "Tureckie tłumaczenie";
+"Japanese" = "Japońskie tłumaczenie";
+
+/* Pop-ups And Other Stuff */
+"BHTikTokSettings" = "BHTikTok Plus";
+"AreYouSure" = "Jesteś pewien?";
+"ActionFollow" = "Obserwuj";
+"ActionLike" = "Polub";
+"ActionDislike" = "Dislike";
+"ConfirmAction" = "Potwierdź Akcję";
+"Warning" = "Ostrzeżenie";
+"ApplyDesc" = "Ten wybór zamknie aplikacje aby zatwierdzić zmiany.\n\nCzy jesteś pewien?";
+"Yes" = "Tak";
+"No" = "Nie";
+"Confirm" = "Potwierdź";
+"Cancel" = "Anuluj";
+"DownloadGroup" = "Pobierz";
+"CopyGroup" = "Kopiuj";
+"Downloading" = "Pobieranie";
+"DownloadVideo" = "Pobierz Wideo";
+"DownloadHDVideo" = "Pobierz Wideo HD";
+"DownloadWMVideo" = "Pobierz ze Znakiem Wodnym";
+"DownloadMusic" = "Pobierz Muzykę";
+"DownloadThisPhoto" = "Pobierz to Zdjęcie";
+"DownloadAllPhotos" = "Pobierz Wszystkie Zdjęcia";
+"DownloadProfileImage" = "Pobierz Zdjęcie Profilowe";
+"StaticImagesOnly" = "Tylko Statyczne Zdjęcia";
+"CopyMusicLink" = "Kopiuj Link do Muzyki";
+"CopyVideoLink" = "Kopiuj Link do Wideo";
+"CopyDescription" = "Kopiuj Opis";
+"WhatToCopy" = "Wybierz Akcję";
+"CopySocialName" = "Kopiuj @nazwe_użytkownika";
+"CopyNickName" = "Kopiuj Nazwe";
+"CopyBio" = "Kopiuj Bio";
+"CopyBioURL" = "Kopiuj Link URL Profilu";
+"VidNoMusic" = "Wideo nie zawiera ścieżki dźwiękowej";
+"VidNoDescription" = "Media nie zawierają opisu";
+"Success" = "Zapisano";
+"Copied" = "Skopiowano";
+"Done" = "Gotowe";
+"Share" = "Udostępnij";
+"NoFollows" = "Nie ma obserwacji";
+"FollowsYou" = "Obserwuje Cie";
+"DoesntFollowsYou" = "Obserwujesz";
+"Friends" = "Znajomi";
+
+/* Passlock */
+"Authenticate" = "Zidentyfikuj by otworzyć";
+"IdentifyYourself" = "Uzyskaj Dostęp";
